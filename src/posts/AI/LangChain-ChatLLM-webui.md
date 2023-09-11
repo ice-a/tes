@@ -76,7 +76,7 @@ git clone https://openi.pcl.ac.cn/Learning-Develop-Union/LangChain-ChatGLM-Webui
 
 ### 切换到paddlepaddle目录
 
-![](http://img.lideshan.top/i/2023/09/11/64feae83bbc0b.png)![](http://img.lideshan.top/i/2023/09/11/64feaec916c42.png)
+![](http://img.lideshan.top/i/2023/09/11/64feae83bbc0b.png)
 
 ## 安装一些库
 
@@ -89,6 +89,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+![](http://img.lideshan.top/i/2023/09/11/64feaec916c42.png)
 
 ## 使用
 
@@ -97,7 +98,7 @@ python app.py
 ```
 http://127.0.0.1:7860/
 ```
-
+![](http://img.lideshan.top/i/2023/09/11/64feb000b9109.png)
 ## cuda及cudnn
 
 v11.7
