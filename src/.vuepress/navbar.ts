@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   // "/demo/",
-  "/posts/",
+  // "/posts/",
   {
     text: "文章",
     icon: "blog",
@@ -14,5 +14,10 @@ export default navbar([
     text: "V2 文档",
     icon: "book",
     link: "https://theme-hope.vuejs.press/zh/",
+  },
+  {
+    text: "主站",
+    icon: "book",
+    link: "https://lideshan.cn",
   },
 ]);
