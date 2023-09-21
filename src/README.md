@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: '文章'
 # heroImage: /logo.svg
 heroText: 爱喝水的木子
 bgImage: https://imgapi.xl0408.top/index.php

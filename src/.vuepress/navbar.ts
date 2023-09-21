@@ -5,16 +5,16 @@ export default navbar([
   // "/demo/",
   // "/posts/",
   {
-    text: "文章",
+    text: "博文",
     icon: "blog",
     link: "/posts/",
   },
-  "/door/",
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  // "/door/",
+  // {
+  //   text: "V2 文档",
+  //   icon: "book",
+  //   link: "https://theme-hope.vuejs.press/zh/",
+  // },
   {
     text: "主站",
     icon: "book",
