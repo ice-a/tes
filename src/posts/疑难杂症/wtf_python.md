@@ -8,18 +8,11 @@ categories:
 - python
 - github
 ---
+
+
 # 来源github
+
 [github地址](https://github.com/leisurelicht/wtfpython-cn)
-<p align="center"><img src="/images/logo.png" alt=""></p>
-<h1 align="center">What the f*ck Python! 🐍</h1>
-<p align="center">一些有趣且鲜为人知的 Python 特性.</p>
-
-翻译版本: [English](https://github.com/satwikkansal/wtfpython) | [Vietnamese Tiếng Việt](https://github.com/vuduclyunitn/wtfptyhon-vi) | [Spanish Español](https://web.archive.org/web/20220511161045/https://github.com/JoseDeFreitas/wtfpython-es) | [Korean 한국어](https://github.com/buttercrab/wtfpython-ko) | [Russian Русский](https://github.com/frontdevops/wtfpython) | [German Deutsch](https://github.com/BenSt099/wtfpython) | [Add translation](https://github.com/satwikkansal/wtfpython/issues/new?title=Add%20translation%20for%20[LANGUAGE]&body=Expected%20time%20to%20finish:%20[X]%20weeks.%20I%27ll%20start%20working%20on%20it%20from%20[Y].)
-
-
-其他模式: [Interactive](https://mybinder.org/v2/gh/robertparley/wtfpython-cn/master?labpath=irrelevant%2Fwtf.ipynb) 
-
-[![WTFPL 2.0][license-image]][license-url]   [![Commit id][commit-image]][commit-url] 
 
 
 Python, 是一个设计优美的解释型高级语言, 它提供了很多能让程序员感到舒适的功能特性. 但有的时候, Python 的一些输出结果对于初学者来说似乎并不是那么一目了然.
