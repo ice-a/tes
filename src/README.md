@@ -27,22 +27,22 @@ projects:
   - icon: fa-solid fa-lemon
     name: 感悟
     desc: 放荡不羁的灵魂
-    link: http://mb.lideshan.cn
+    link: http://life.lideshan.top
 
   - icon: friend
     name: 伙伴名称
     desc: 伙伴网站存活状态
-    link: http://up.lideshan.cn/status/links 
+    link: http://up.lideshan.top/status/links 
 
   - icon: fa-solid fa-image
     name: 图床
     desc: 我的图床
-    link: http://img.lideshan.cn
+    link: http://img.lideshan.top
   
   - icon: fa-solid fa-server
     name: 服务
     desc: 服务状态
-    link: http://up.lideshan.cn/status/service
+    link: http://up.lideshan.top/status/service
   
   - icon: fa-solid fa-j
     name: 掘金
@@ -54,4 +54,4 @@ copyright: 爱喝水的木子©2023
 footerHtml: true
 ---
 
-[图标库](https://fontawesome.com/search?q=sf&o=r&m=free) [主题](https://theme-hope.vuejs.press/zh/guide/blog/home/)
+<!-- [图标库](https://fontawesome.com/search?q=sf&o=r&m=free) [主题](https://theme-hope.vuejs.press/zh/guide/blog/home/) -->
