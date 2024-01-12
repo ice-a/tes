@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import { umamiAnalyticsPlugin } from 'vuepress-plugin-umami-analytics';
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -10,12 +11,12 @@ export default defineUserConfig({
 
   theme,
   plugins:[
+    umamiAnalyticsPlugin({"id":"6d386c85-09bd-4369-a3b1-4a2b24690b8c","src":"https://umami.lideshan.top/script.js"}),
     // feedPlugin({
     //   hostname:"https://lideshan.cn",
     //   rss:true,
     // }),
     // copyCodePlugin({}), // 代码复制
-      'umami': { trackerUrl: 'https://umami.lideshan.top', siteId: '6d386c85-09bd-4369-a3b1-4a2b24690b8c' }
   ],
   // Enable it with pwa
   // shouldPrefetch: false,
