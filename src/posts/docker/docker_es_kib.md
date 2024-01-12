@@ -94,14 +94,3 @@ exit
 # 重启容器
 docker restart kib01-test
 ```
-
-# 扩展(其他组件)
-- heartbeat
-	docker pull docker.elastic.co/beats/heartbeat:7.17.7
-- Logstash 
-	docker pull docker.elastic.co/logstash/logstash:7.17.7
-- Prometheus 
-- apm server
-	docker pull docker.elastic.co/apm/apm-server:7.17.7
-- metricbeat
-	docker pull docker.elastic.co/beats/metricbeat:7.17.7
